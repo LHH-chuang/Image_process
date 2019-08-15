@@ -208,6 +208,6 @@ def crop_coin(image):
         print('1')
     return crop
 
-#src = cv2.imread("coin.jpg")
+#src = cv2.imread("include/coin21.jpg")
 #img = crop_coin(src)
 #cv2.imwrite("2.jpg",img[0])
